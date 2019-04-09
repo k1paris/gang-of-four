@@ -1,0 +1,12 @@
+{
+    "name": "kip/gang-of-four-patterns",
+    "description": "thoughts and examples from design patterns book",
+    "type": "project",
+    "authors": [
+        {
+            "name": "engenx",
+            "email": "developerofai@gmail.com"
+        }
+    ],
+    "require": {}
+}
